@@ -1,0 +1,29 @@
+	White (O) has captured 23 pieces
+    Black (X) has captured 1 pieces
+
+    A B C D E F G H J K L M N        Last move: Black PASS
+ 13 . . . . . . . . . . . . . 13
+ 12 . . . . . . . . . . . . . 12
+ 11 . . . . . . . . . O . . . 11
+ 10 . . . X . . + . . + . . . 10
+  9 . . . . . . . . . . . . .  9
+  8 . . . . . . . . . . . . .  8
+  7 . . . + . . + . . + . . .  7
+  6 . . . . . . . . . . . . .  6
+  5 . . . . . . . . . . . . .  5
+  4 . . . X . . + . . + . . .  4
+  3 . . . . . . . . .(O). . .  3
+  2 . . . . . . . . . . . . .  2
+  1 . . . . . . . . . . . . .  1
+    A B C D E F G H J K L M N
+
+black(9): pass
+white(10): PASS
+Result: W+10.0   
+If you disagree, we may count the game together.
+You may optionally save the game as an SGF file.
+
+Type "save <filename>" to save,
+     "count" to recount,
+     "quit" to quit
+ or  "game" to play again

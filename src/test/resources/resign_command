@@ -1,0 +1,22 @@
+    White (O) has captured 13 pieces
+    Black (X) has captured 3 pieces
+
+    A B C D E F G H J K L M N        Last move: Black D10
+ 13 . . . . . . . . . . . . . 13
+ 12 . . . . . . . . . . . . . 12
+ 11 . . . . . . . . . O . . . 11
+ 10 . . .(X). . + . . + . . . 10
+  9 . . . . . . . . . . . . .  9
+  8 . . . . . . . . . . . . .  8
+  7 . . . + . . + . . + . . .  7
+  6 . . . . . . . . . . . . .  6
+  5 . . . . . . . . . . . . .  5
+  4 . . . X . . + . . + . . .  4
+  3 . . . . . . . . . . . . .  3
+  2 . . . . . . . . . . . . .  2
+  1 . . . . . . . . . . . . .  1
+    A B C D E F G H J K L M N
+
+black(7): resign
+GNU Go wins by resignation.
+Result: W+Resign
