@@ -1,2 +1,2 @@
 # gnugoparser
-A text(ascii mode) parser for gnugo application
+A text(ascii mode and gtp mode) parser for gnugo application
